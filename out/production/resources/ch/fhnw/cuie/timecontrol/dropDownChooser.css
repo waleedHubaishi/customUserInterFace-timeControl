@@ -1,0 +1,26 @@
+.dropDownChooser {
+    -fx-background-color: linear-gradient(#7ded89,#8cffb5);
+    -fx-background-radius: 4;
+    -fx-effect: dropshadow(gaussian, rgb(200, 200, 200), 5.0, 0.0, 2, 2);
+
+    -fx-pref-width: 150;
+    -fx-border-width: 3;
+    -fx-border-radius: 4;
+    -fx-border-color: black;
+    -fx-spacing: 10;
+    -fx-padding: 5;
+}
+
+.slider
+{
+    -fx-color:#7ded89;
+}
+
+.button{
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+    -fx-background-color: black;
+    -fx-text-fill: #7ded89;
+
+    -fx-border-color: black;
+}
